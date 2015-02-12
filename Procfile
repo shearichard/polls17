@@ -1,1 +1,1 @@
-web: gunicorn mysite.mysite.wsgi:application --log-file - --access-logfile -
+web: gunicorn mysite.wsgi:application --pythonpath ./mysite --log-file - --access-logfile -
