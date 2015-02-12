@@ -1,6 +1,7 @@
 Django==1.7.4
 Pygments==2.0.2
 argparse==1.2.1
+dj-database-url==0.3.0
 django-extensions==1.5.0
 django-pdb==0.4.1
 fancycompleter==0.4
