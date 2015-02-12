@@ -4,6 +4,7 @@ argparse==1.2.1
 django-extensions==1.5.0
 django-pdb==0.4.1
 fancycompleter==0.4
+gunicorn==19.2.1
 pdbpp==0.7.2
 pep8==1.6.1
 psycopg2==2.6
